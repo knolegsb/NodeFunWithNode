@@ -1,0 +1,10 @@
+{
+  "name": "FunWithNode",
+  "version": "0.0.0",
+  "description": "FunWithNode",
+  "main": "app.js",
+  "author": {
+    "name": "sean",
+    "email": ""
+  }
+}
