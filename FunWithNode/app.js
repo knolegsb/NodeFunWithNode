@@ -15,3 +15,6 @@ console.log(msg.first);
 
 var logger = require("./logger");
 logger.log("this from the logger");
+
+//var underscore = require("underscore");
+var _ = require("underscore");
